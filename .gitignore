@@ -1,0 +1,6 @@
+*.dict
+*.fasta
+*.vcf
+*.idx
+*.fai
+*.jar
